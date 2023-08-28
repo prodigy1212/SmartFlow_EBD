@@ -1,4 +1,4 @@
-// Include the radio head library for RF communication
+ // Include the radio head library for RF communication
 #include <RH_ASK.h>
 #include <Adafruit_Sensor.h>
 #include "DHT.h";
